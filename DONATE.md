@@ -1,9 +1,13 @@
 # 支持研织 · Donate to CiteWeave
 
-如果研织帮你整理了文献或完成了稿件，欢迎自愿支持后续开发。
+感谢你使用研织，也谢谢你愿意支持它的后续开发。
 
-If CiteWeave has helped you organize your papers or finish a manuscript, you’re welcome to support its development.
+Thank you for using CiteWeave and considering supporting its continued development.
 
-收款渠道正在准备中。启用后，收款链接或二维码将公布在本页。
+## 微信支付 · WeChat Pay
 
-Donations are not open yet. The payment link or QR code will appear here when available.
+打开微信「扫一扫」，扫描下方二维码，自愿选择金额。
+
+In WeChat, open **Scan**, scan the QR code below, and choose an amount.
+
+<img src="assets/wechat-pay.jpg" width="360" alt="研织微信收款码 · WeChat Pay QR code for CiteWeave">
