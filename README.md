@@ -10,3 +10,5 @@ Choose the Windows x64 installer or the Apple Silicon Mac preview. [GitHub Relea
 
 **快速入门 · Getting started**  
 从添加第一个 PDF 文件夹到导出第一份文稿。[简明使用说明 · Quick guide](QUICKSTART.md)
+
+[支持研织 · Donate](DONATE.md)
