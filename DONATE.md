@@ -4,6 +4,12 @@
 
 Thank you for using CiteWeave and considering supporting its continued development.
 
+## Ko-fi
+
+欢迎通过 Ko-fi 自愿支持研织的后续开发。 You can support CiteWeave’s continued development on Ko-fi.
+
+[在 Ko-fi 支持研织 · Support CiteWeave on Ko-fi](https://ko-fi.com/alarics537)
+
 ## 微信支付 · WeChat Pay
 
 打开微信「扫一扫」，扫描下方二维码，自愿选择金额。
